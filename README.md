@@ -87,6 +87,8 @@ ISO 8000 || 1/8000s || ƒ/5.6 || 300mm
 @tamronusa 7...](https://www.instagram.com/p/CBjHhZtHS1f)
 <!-- INSTAGRAM:END -->
 
+---
+
 <img align="left" alt="joaodordio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaodordio&show_icons=true&hide_border=true&count_private=true" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodordio&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
