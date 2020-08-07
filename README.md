@@ -53,6 +53,8 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 
 ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/medium.svg" /> Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Loose Cannon](https://medium.com/@dordio/introducing-the-loose-cannon-ca9a36c05502?source=rss-2214f10bfb81------2)
+- [How to hire an iOS Developer](https://medium.com/@dordio/how-to-hire-an-ios-developer-cffdd258e8e6?source=rss-2214f10bfb81------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
