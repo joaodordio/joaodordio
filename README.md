@@ -65,6 +65,25 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 
 ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts
 <!-- INSTAGRAM:START -->
+- [Sunrise Seagle
+•
+Shot on @nikoneurope D500 and edited on @lightroom
+•
+ISO 100 || 1/500s || ƒ/8 || 165mm
+@tamronusa 70-30...](https://www.instagram.com/p/CBrGJeiHveE)
+- [Mooning on Jupiter ••••
+So a couple of days ago I was out in Sintra shooting the clear night  sky and before packing up,...](https://www.instagram.com/p/CBng1DunPbi)
+- [Wing it •
+One lucky shot obviously...
+The bird was hanging still on the cable and I was shooting (pics) at him regularly...](https://www.instagram.com/p/CBlEA5HH9u7)
+- [LED Sky
+This is one of the most common sights of my life. We have a weekend cottage up in Sintra and I’m very used to se...](https://www.instagram.com/p/CBjVDi1HkFO)
+- [Hidden cottage
+•
+Shot on @nikoneurope D500 and edited on @lightroom
+•
+ISO 8000 || 1/8000s || ƒ/5.6 || 300mm
+@tamronusa 7...](https://www.instagram.com/p/CBjHhZtHS1f)
 <!-- INSTAGRAM:END -->
 
 <img align="left" alt="joaodordio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaodordio&show_icons=true&hide_border=true&count_private=true" />
