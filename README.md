@@ -66,6 +66,12 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 
 ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts
 <!-- INSTAGRAM:START -->
+- [🦅 
+•
+Shot on @nikoneurope NIKON D500 and edited on @lightroom 
+•
+ISO 2800  1/8000  f/9  300mm
+ @tamronusa 70-300mm A17 ...](https://www.instagram.com/p/CDn8kEBnbJE)
 - [Sunrise Seagle
 •
 Shot on @nikoneurope D500 and edited on @lightroom
@@ -79,12 +85,6 @@ One lucky shot obviously...
 The bird was hanging still on the cable and I was shooting (pics) at him regularly...](https://www.instagram.com/p/CBlEA5HH9u7)
 - [LED Sky
 This is one of the most common sights of my life. We have a weekend cottage up in Sintra and I’m very used to se...](https://www.instagram.com/p/CBjVDi1HkFO)
-- [Hidden cottage
-•
-Shot on @nikoneurope D500 and edited on @lightroom
-•
-ISO 8000 || 1/8000s || ƒ/5.6 || 300mm
-@tamronusa 7...](https://www.instagram.com/p/CBjHhZtHS1f)
 <!-- INSTAGRAM:END -->
 
 ---
