@@ -5,7 +5,8 @@ I've recently completed my 27th trip around the 🔆
 
 I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` and `enums` and `structs` for the past 5 years.
 
-- 👨‍💻 I’m currently working @ [<img align="center" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sky.svg" />][sky-linkedin] on the 🦚[Peacock iOS App][peacock]
+- 👨‍💻 I’m currently working @ [Stark][stark] making a Stark Difference in accessibility compliance in the world. 
+- 🚀 Previously helped launch the 🦚[Peacock iOS App][peacock] @ [<img align="center" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sky.svg" />][sky-linkedin]
 - 🍹 I’m having a lot of fun trying SwiftUI
 - 🏃‍♂️ I’m always ready for some 📸
 
@@ -64,12 +65,10 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 <!-- GIST:START -->
 <!-- GIST:END -->
 
-### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts
+<!-- ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts -->
 <!-- INSTAGRAM:START -->
-- [[Action required] Your RSS.app Trial has Expired - Wed Sep 23 2020](https://rss.app)
+<!-- - [[Action required] Your RSS.app Trial has Expired - Wed Sep 23 2020](https://rss.app) -->
 <!-- INSTAGRAM:END -->
-
----
 
 <img align="left" alt="joaodordio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaodordio&show_icons=true&hide_border=true&count_private=true" />
 
@@ -83,3 +82,4 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 [sky-linkedin]: https://www.linkedin.com/company/skyportugal/
 [sky-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sky.svg
 [peacock]: https://apps.apple.com/us/app/peacock-tv/id1508186374
+[stark]: https://www.getstark.co/
