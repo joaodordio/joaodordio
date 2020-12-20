@@ -67,7 +67,7 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 
 <!-- ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts -->
 <!-- INSTAGRAM:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sun Dec 13 2020](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Dec 20 2020](https://rss.app)
 <!-- INSTAGRAM:END -->
 
 <img align="left" alt="joaodordio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaodordio&show_icons=true&hide_border=true&count_private=true" />
