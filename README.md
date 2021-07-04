@@ -1,21 +1,19 @@
-### Hi! I'm Joao 👋 an iOS Developer and Photographer
+### Hi! I'm Joao 👋 an Apple Developer and Photographer
 
 ## About me
-I've recently completed my 27th trip around the 🔆
+I've recently completed my 28th trip around the 🔆
 
-I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` and `enums` and `structs` for the past 5 years.
+I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` and `enums` and `structs` for the past 6 years.
 
-- 👨‍💻 I’m currently working @ [Stark][stark] making a Stark Difference in accessibility compliance in the world. 
+- 👨‍💻 I’m a macOS Developer @ [Stark][stark] making a Stark Difference in accessibility compliance in the world. 
 - 🚀 Previously helped launch the 🦚[Peacock iOS App][peacock] @ [<img align="center" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sky.svg" />][sky-linkedin]
-- 🍹 I’m having a lot of fun trying SwiftUI
+- 🍹 I’m in ❤️ with SwiftUI
 - 🏃‍♂️ I’m always ready for some 📸
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -52,9 +50,10 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 <br />
 
 ---
-
+<!--
 ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/medium.svg" /> Posts
 <!-- BLOG-POST-LIST:START -->
+<!-- 
 - [Introducing the Loose Cannon](https://medium.com/@dordio/introducing-the-loose-cannon-ca9a36c05502?source=rss-2214f10bfb81------2)
 - [How to hire an iOS Developer](https://medium.com/@dordio/how-to-hire-an-ios-developer-cffdd258e8e6?source=rss-2214f10bfb81------2)
 <!-- BLOG-POST-LIST:END -->
@@ -67,7 +66,7 @@ I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` an
 
 <!-- ### <img align="center" alt="GitHub" width="26px" src="https://simpleicons.org/icons/instagram.svg" /> Latest posts -->
 <!-- INSTAGRAM:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sun Jul 04 2021](https://rss.app)
+<!-- - [[Action required] Your RSS.app Trial has Expired - Sun Jul 04 2021](https://rss.app)
 <!-- INSTAGRAM:END -->
 
 <img align="left" alt="joaodordio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaodordio&show_icons=true&hide_border=true&count_private=true" />
