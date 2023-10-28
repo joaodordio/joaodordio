@@ -1,9 +1,10 @@
 ### Hi! I'm Joao 👋 an iOS Developer and Photographer
 I've recently completed my 30th trip around the 🔆
 
-I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` and `enums` and `structs` for the past 8 years.
+I live in Lisbon 🇵🇹and I’ve been dwelling between `[angled brackets]` and `enums` and `structs` for the past 9 years.
 
-- 📱 I'm currently working @ [VEED][veed] making sure that everyone can _easilly_ edit their videos.
+- 📱 I'm currently working on a secret (indie personal) project while freelancing as iOS Developer!
+- 🤳 Before I was working @ [VEED][veed] making sure that everyone can _easilly_ edit their videos on their phone.
 - 👨‍💻 I worked for two years @ [Stark][stark] building a mac app that accelerates your accessibility efforts on a product development pipeline. (all in SwiftUI!)
 - 🚀 Previously helped launch the 🦚[Peacock iOS App][peacock] @ [Sky][sky-linkedin]
 - 🍹 I’m in ❤️ with SwiftUI
